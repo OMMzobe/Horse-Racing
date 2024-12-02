@@ -1,5 +1,7 @@
 # Horse Race Predictions
 
+![Horse Race](Horse_Race.jpg)
+
 This repository contains a project that analyzes horse racing data from the year 2020. The goal is to uncover key factors that influence race outcomes and use this analysis to predict horse performance and winning probabilities. The project utilizes data cleaning, visualization, and machine learning techniques to provide actionable insights into the dynamics of horse racing.
 
 ## Table of Contents
@@ -161,5 +163,5 @@ This project demonstrates how data analysis and machine learning can provide ins
 
 ---
 
-Feel free to explore the repository and contribute to the project!
+Feel free to explore the repository!
 
